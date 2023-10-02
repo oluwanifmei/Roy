@@ -1,0 +1,119 @@
+/* selected tag {
+    property : value
+}*/
+
+body{
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  padding:0;
+  margin:0;
+  background-color: whitesmoke;
+}
+
+/* For all */
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+/* Header */
+header {
+  background:goldenrod;
+  color:#ffffff;
+  padding-top:30px;
+  min-height:100px;
+  border-bottom:red 5px solid;
+}
+
+header img{
+    float: left;
+    width: 80px;
+    border-radius: 50%;
+}
+
+header h1{
+    float: right;
+    padding-bottom: 4px;
+}
+
+/* boxes */
+#boxes .brt img{
+    margin-top: 30px;
+    width: 30%;
+    border-radius: 50%;
+}
+
+#boxes .brt p{
+    padding-top: 20px;
+    text-align: center;
+}
+#boxes {
+    text-align: center;
+
+}
+
+#boxes {
+  min-height:50px;
+  background-color: green;
+  background-position: center;
+  background-size: cover;
+  color: #ffffff;
+}
+
+/* show*/
+#show{
+  list-style: none;
+  padding:20px;
+  border: #cccccc solid 1px;
+  margin-bottom:5px;
+  background:#e6e6e6;
+}
+
+#show .box {
+    margin-left: 30px;
+    text-align: center;
+    width: 95%;
+    padding:10px;
+    margin: auto;    
+}
+
+/* contact */
+#contact h2 {
+    text-align: center;
+    margin-top: -5px;
+}
+
+#cont img {
+    width: 30px;
+    border-radius: 10px;
+}
+
+#cont {
+  margin-top:20px;
+  text-align: center;
+}
+
+#cont .cot{
+  float: left;
+  text-align: center;
+  width:30%;
+  padding: 10px;
+}
+
+#cont .cota{
+  float: left;
+  text-align: center;
+  width:30%;
+  padding:10px;
+}
+
+#cont .cotac{
+  padding-top: 10px;
+}
+
+#contact{
+  padding:20px;
+  margin-top:20px;
+  color: white;
+  background-color: green;
+  text-align: center;
+}
